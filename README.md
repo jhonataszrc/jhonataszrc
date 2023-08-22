@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jhonatas! 😎
-#Cursando Engenharia de Computação! ⚙️
+##Cursando Engenharia de Computação! ⚙️
 
 ## Minhas Redes Sociais : 
-![[Linkedin](https://www.linkedin.com/in/jhonataszrc/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonataszrc/)
 
 ![Jhonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonataszrc&theme=dark&show_icons=true)
 
